@@ -1,0 +1,16 @@
+{
+  "name": "beerverse",
+  "version": "1.0.0",
+  "description": "The demo application for TDD",
+  "main": "index.js",
+  "author": "Santosh Suresh",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
