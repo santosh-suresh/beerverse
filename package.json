@@ -11,6 +11,7 @@
     "test:watch": "jest --watch"
   },
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "servertest": "^1.2.1"
   }
 }
